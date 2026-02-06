@@ -1,4 +1,9 @@
-.env
-__pycache__/
-*.pyc
-.DS_Store
+# .gitignore
+*.tfstate
+*.tfstate.*
+crash.log
+override.tf
+override.tf.json
+.terraform/
+.terraform.lock.hcl    
+*.env
