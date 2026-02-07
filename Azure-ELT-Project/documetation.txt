@@ -1,0 +1,11 @@
+create a new admin for terraform, the admn account has all the admin rights and for security reasons using it wont be necessary
+azure AD (active directory) used for managing users, grousp and roles
+an pplication obj will be created another form of identity, the details will be embedded in our configuration file
+
+
+make a plan of the resources you will need for your project
+1. storage accoun datalake
+2. data factory for orchestration
+azure synapse 
+azure key vault
+

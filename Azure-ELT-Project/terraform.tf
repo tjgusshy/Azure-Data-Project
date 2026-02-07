@@ -17,7 +17,7 @@ provider "azurerm" {
 }
 
 
-resource "azurerm_resource_group" "connection_test" {
-  name     = "terraform-test-rg"
-  location = "north europe"
-}
+# resource "azurerm_resource_group" "connection_test" {
+#   name     = "terraform-test-rg"
+#   location = "43"
+# }

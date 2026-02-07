@@ -6,4 +6,5 @@ override.tf
 override.tf.json
 .terraform/
 .terraform.lock.hcl    
+*.tfvars
 *.env
